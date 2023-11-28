@@ -1,7 +1,7 @@
 <?php
-    class bookrank
-    {
-        function 
-    }
+//    class bookrank
+//    {
+//        function
+//    }
 
 ?>
